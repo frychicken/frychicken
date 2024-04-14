@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I have recently change my username, you should check me out here [@duongddinh](https://github.com/duongddinh)
 <!--
 **frychicken/frychicken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
